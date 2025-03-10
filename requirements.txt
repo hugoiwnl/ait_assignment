@@ -1,0 +1,10 @@
+torch
+torchvision
+numpy
+matplotlib
+opencv-python
+opencv-contrib-python
+tqdm
+ipykernel
+timm
+tensorboard
